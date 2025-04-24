@@ -19,3 +19,31 @@
 24-04-2025 18:12:35  409  git push
 24-04-2025 21:47:46  410  git commit -am "echo 'Hello World'"
 24-04-2025 21:48:02  411  git add .
+24-04-2025 21:48:05  412  git commit -am "01_hello_world"
+24-04-2025 21:48:10  413  git push
+24-04-2025 21:50:27  414  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:50:43  415  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:50:56  416  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:52:24  391  -----END RSA PRIVATE KEY-----
+24-04-2025 21:52:43  392  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:54:23  393  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:54:32  394  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:55:00  395  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:55:26  396  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:55:34  397  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:55:38  398  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:55:56  399  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:56:05  400  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:56:11  401  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:56:23  402  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:57:07  403  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:58:01  404  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:58:17  405  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:58:27  406  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:58:37  407  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:58:46  408  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:59:16  409  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 21:59:34  410  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 22:02:39  411  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 22:03:01  412  bash 02_veriable_and_array_with_comment.sh 
+24-04-2025 22:04:14  413  git add .
