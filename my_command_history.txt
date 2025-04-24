@@ -74,3 +74,16 @@
 24-04-2025 22:28:32  438  bash 04_string_operation.sh 
 24-04-2025 22:28:41  439  bash 04_string_operation.sh 
 24-04-2025 22:30:31  440  git add .
+24-04-2025 22:30:33  441  git commit -am "04_string_operations"
+24-04-2025 22:30:36  442  git push
+24-04-2025 22:30:51  443  bash 04_string_operation.sh 
+24-04-2025 22:30:57  444  bash 04_string_operations.sh 
+24-04-2025 22:31:37  445  bash 04_string_operations.sh 
+24-04-2025 22:31:59  446  bash 04_string_operations.sh 
+24-04-2025 23:03:49  447  bash 04_string_operations.sh 
+24-04-2025 23:03:55  448  bash 04_string_operations.sh 
+24-04-2025 23:04:02  449  bash 04_string_operations.sh 
+24-04-2025 23:04:20  450  bash 04_string_operations.sh 
+24-04-2025 23:05:01  451  bash 04_string_operations.sh 
+24-04-2025 23:05:26  452  bash 04_string_operations.sh 
+24-04-2025 23:05:37  453  git add .

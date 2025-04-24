@@ -52,12 +52,10 @@ echo "-----------------------------------------"
 <<Recap
 🧠 Recap:
     - ${#str}: Gets the length of the string
-    - expr length "$str": Another way to get the string length using `expr`
     - ${str}: Prints the full content of the string
     - ${str^^}: Converts all characters to uppercase
     - ${str,,}: Converts all characters to lowercase
     - ${str:start:length}: Extracts a substring from the string
     - ${str//old/new}: Replaces all occurrences of 'old' with 'new' in the string
-    - expr index "$str" "substring": Finds the index of the first occurrence of 'substring' in the string
     - String trimming: Removes spaces from both ends of the string using pattern matching
 Recap
