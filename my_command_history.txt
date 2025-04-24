@@ -65,3 +65,12 @@
 24-04-2025 22:16:57  429  bash 03_hash_map_array.sh 
 24-04-2025 22:23:15  430  bash 03_hash_map_array.sh 
 24-04-2025 22:23:45  431  git add .
+24-04-2025 22:23:48  432  git commit -am "03_hash_map_array"
+24-04-2025 22:23:52  433  git push
+24-04-2025 22:25:37  434  bash 04_string_operation.sh 
+24-04-2025 22:26:02  435  bash 04_string_operation.sh 
+24-04-2025 22:26:17  436  bash 04_string_operation.sh 
+24-04-2025 22:27:32  437  bash 04_string_operation.sh 
+24-04-2025 22:28:32  438  bash 04_string_operation.sh 
+24-04-2025 22:28:41  439  bash 04_string_operation.sh 
+24-04-2025 22:30:31  440  git add .
