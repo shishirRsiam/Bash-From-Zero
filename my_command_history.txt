@@ -1,0 +1,17 @@
+24-04-2025 18:01:22  391  -----END RSA PRIVATE KEY-----
+24-04-2025 18:01:37  392  echo $0
+24-04-2025 18:04:32  393  ./1.\ hello_world.sh 
+24-04-2025 18:04:46  394  ./1.\ hello_world.sh 
+24-04-2025 18:04:55  395  ./1.\ hello_world.sh 
+24-04-2025 18:05:14  396  chmod +x hello.sh
+24-04-2025 18:05:23  397  chmod +x 1.\ hello_world.sh 
+24-04-2025 18:05:28  398  ./1.\ hello_world.sh 
+24-04-2025 18:05:53  399  bash 1.\ hello_world.sh 
+24-04-2025 18:06:05  400  sh 1.\ hello_world.sh 
+24-04-2025 18:06:22  401  sh 1.hello_world.sh 
+24-04-2025 18:06:28  402  sh 1.hello_world.sh 
+24-04-2025 18:06:46  403  sh 1.hello_world.sh 
+24-04-2025 18:06:58  404  sh 1.hello_world.sh 
+24-04-2025 18:11:30  405  git add .
+24-04-2025 18:12:01  406  git commit -am "echo "Hello World""
+24-04-2025 18:12:07  407  git push
