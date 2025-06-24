@@ -1,0 +1,16 @@
+24-06-2025 11:30:53  392  "New Terminal"
+24-06-2025 11:31:04  395  cd ..
+24-06-2025 11:31:05  396  chmod +x scripts/*.sh
+24-06-2025 11:31:21  397  docker compose up
+24-06-2025 11:34:05  398  docker build -t bash-lab .
+24-06-2025 11:35:26  399  docker run -it --name bash-lab bash-lab
+24-06-2025 11:35:46  392  "New Terminal"
+24-06-2025 11:35:48  393  docker rm -f bash-lab
+24-06-2025 11:39:54  400  docker build -t bash-lab .
+24-06-2025 11:42:15  401  docker run -it --name bash-lab bash-lab
+24-06-2025 11:42:23  402  docker-compose up --build
+24-06-2025 11:43:33  403  docker rm -f bash-lab
+24-06-2025 11:44:20  404  docker-compose up --build
+24-06-2025 11:44:22  405  docker rm -f bash-lab
+24-06-2025 11:45:13  406  docker compose up --build
+24-06-2025 12:04:30  407  docker compose run --build bash-lab
