@@ -118,3 +118,18 @@
 25-10-2025 07:08:54    4  git status
 25-10-2025 07:09:13    5  cat ~/.bashrc
 25-10-2025 07:09:39    6  check_git
+25-10-2025 07:11:27    7  push "update command history"
+25-10-2025 07:34:36    8  touch ok.sh
+25-10-2025 07:34:43    9  rm ok.sh 
+25-10-2025 07:51:17   10  mkdir LeetCode-Solve
+25-10-2025 07:54:13    3  code .
+25-10-2025 07:54:16    4  ls
+25-10-2025 07:56:28    5  touch 06_arithmetic_operations.py
+25-10-2025 07:57:40   18  cd  .
+25-10-2025 07:57:58    6  rm 06_arithmetic_operations.py 06_arithmetic_operations.sh
+25-10-2025 07:58:22    7  touch 06_arithmetic_operations.sh
+25-10-2025 08:00:45    8  bash 06_arithmetic_operations.sh 
+25-10-2025 08:01:02    8  bash 06_arithmetic_operations.sh 
+25-10-2025 08:05:06    8  bash 06_arithmetic_operations.sh 
+25-10-2025 08:11:40    8  bash 06_arithmetic_operations.sh 
+25-10-2025 08:12:29    8  bash 06_arithmetic_operations.sh 
