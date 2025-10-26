@@ -215,3 +215,50 @@
 25-10-2025 13:20:58   32  bash 08_loop.sh 
 25-10-2025 13:21:01   32  bash 08_loop.sh 
 25-10-2025 13:21:44   32  bash 08_loop.sh 
+25-10-2025 13:31:27   33  push "08_loop"
+25-10-2025 14:04:15   34  sudo apt update
+25-10-2025 14:04:25   35  sudo apt upgrade -y
+25-10-2025 14:05:21   36  code --version
+25-10-2025 14:06:10   37  sudo apt install --only-upgrade code
+25-10-2025 14:08:01   37  sudo apt install --only-upgrade code
+25-10-2025 14:10:13   39  sudo apt install -y neovim
+25-10-2025 14:10:47   40  sudo apt install postgresql
+25-10-2025 14:11:09   41  sudo apt install redis
+25-10-2025 14:11:18   42  sudo apt install pgadmin4
+25-10-2025 14:11:30   43  sudo apt install pgadmin
+25-10-2025 14:11:45   44  sudo apt install python3 python3-pip
+25-10-2025 14:12:38   31  bash file_read.sh 
+25-10-2025 14:13:01   45  sudo apt install golang
+25-10-2025 14:13:08   46  sudo apt install nginx
+25-10-2025 14:13:26   47  sudo snap install ngrok
+25-10-2025 14:13:35   48  sudo apt install ngrok
+25-10-2025 14:14:00   49  sudo apt install jenkins
+25-10-2025 14:16:00   50  apt list --installed
+25-10-2025 14:16:03   51  apt list --installed | grep python
+25-10-2025 14:16:38   52  apt list --installed | grep code
+25-10-2025 14:17:11   53  sudo apt update
+25-10-2025 14:17:18   53  sudo apt update
+25-10-2025 14:17:39   54  sudo apt list --upgradble
+25-10-2025 14:17:49   55  apt list --upgradble
+26-10-2025 09:01:55   55  apt list --upgradble
+26-10-2025 09:06:48   56  bash 09_file_read.sh 
+26-10-2025 09:06:53   56  bash 09_file_read.sh 
+26-10-2025 09:07:49   56  bash 09_file_read.sh 
+26-10-2025 09:08:02   56  bash 09_file_read.sh 
+26-10-2025 09:08:13   56  bash 09_file_read.sh 
+26-10-2025 09:08:52   56  bash 09_file_read.sh 
+26-10-2025 09:09:42   56  bash 09_file_read.sh 
+26-10-2025 09:09:58   56  bash 09_file_read.sh 
+26-10-2025 09:17:19   56  bash 09_file_read.sh 
+26-10-2025 09:17:36   56  bash 09_file_read.sh 
+26-10-2025 09:17:50   56  bash 09_file_read.sh 
+26-10-2025 09:18:30   56  bash 09_file_read.sh 
+26-10-2025 09:19:19   56  bash 09_file_read.sh 
+26-10-2025 09:20:45   56  bash 09_file_read.sh 
+26-10-2025 09:22:17   56  bash 09_file_read.sh 
+26-10-2025 09:22:27   56  bash 09_file_read.sh 
+26-10-2025 09:22:48   56  bash 09_file_read.sh 
+26-10-2025 09:23:45   56  bash 09_file_read.sh 
+26-10-2025 09:23:56   56  bash 09_file_read.sh 
+26-10-2025 09:24:48   56  bash 09_file_read.sh 
+26-10-2025 09:25:15   56  bash 09_file_read.sh 
