@@ -264,3 +264,21 @@
 26-10-2025 09:25:15   56  bash 09_file_read.sh 
 26-10-2025 09:36:48   57  push "09_file_read"
 26-10-2025 09:42:40   58  push "10_file_tests_basic"
+26-10-2025 09:43:45   59  push "11_file_tests_advanced"
+26-10-2025 09:44:05   60  git pull
+30-10-2025 15:52:50   55  apt list --upgradble
+30-10-2025 15:52:54   56  free -h
+30-10-2025 15:53:02   57  docker ps
+30-10-2025 15:53:29   58  django --version
+30-10-2025 15:53:35   59  django-admin --version
+30-10-2025 15:53:50   60  pip update django
+30-10-2025 15:53:55   60  pip update django
+30-10-2025 15:54:26   61  pip install --upgrade Django
+30-10-2025 15:54:30   62  django-admin --version
+30-10-2025 15:54:44   62  django-admin --version
+30-10-2025 16:45:36   66  python manage.py runserver
+30-10-2025 16:45:47   67  git pull
+30-10-2025 16:46:08   79  django-admin --version
+30-10-2025 16:48:15   68  bash 12_functions.sh 
+30-10-2025 16:48:32   68  bash 12_functions.sh 
+30-10-2025 16:48:41   68  bash 12_functions.sh 
