@@ -283,3 +283,13 @@
 30-10-2025 16:48:32   68  bash 12_functions.sh 
 30-10-2025 16:48:41   68  bash 12_functions.sh 
 30-10-2025 16:53:34   69  push "12_functions"
+30-10-2025 16:58:55   70  push "13_special_variables"
+30-10-2025 17:00:24   71  crontab -l
+30-10-2025 17:00:29   71  crontab -l
+30-10-2025 17:01:10   72  sudo systemctl status cron
+30-10-2025 17:01:35   73  sudo crontab -l
+30-10-2025 17:02:03   74  sudo crontab -e
+30-10-2025 17:02:30   75  sudo systemctl enable cron
+30-10-2025 17:07:05   76  sudo crontab -e
+30-10-2025 17:07:17   76  sudo crontab -e
+30-10-2025 17:07:37   77  crontab -e
